@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VwASQiTzT+tImWzaGtN70yBAs8OArrhyJAYVeCCwWW8=",
+  "Hash": "rUmZoEI/90RM7iNrr/elFBtycAtpoVSDJMRBSa51lM8=",
   "Source": "ViggoQR",
   "BasePath": "_content/ViggoQR",
   "Mode": "Default",
@@ -2327,6 +2327,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\jpsan\\ViggoQRProyect\\ViggoQR\\ViggoQR\\wwwroot\\img\\home4.jpg",
+      "SourceId": "ViggoQR",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jpsan\\ViggoQRProyect\\ViggoQR\\ViggoQR\\wwwroot\\",
+      "BasePath": "_content/ViggoQR",
+      "RelativePath": "img/home4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\home4.jpg"
     },
     {
       "Identity": "C:\\Users\\jpsan\\ViggoQRProyect\\ViggoQR\\ViggoQR\\wwwroot\\img\\to3d4ee1.png",

@@ -4,6 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - ViggoQR</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/ViggoQR.styles.css" asp-append-version="true" />
@@ -19,34 +23,39 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-center">
                     <div class="social-icons ">
-                        <i class="bi bi-instagram"></i>
-                        <i class="bi bi-facebook"></i>
-                        <i class="bi bi-linkedin"></i>
+                        <a target="_blank" href="https://www.instagram.com/Viggo_Chile/"><i class="bi bi-instagram"></i></a>
+                        <a target="_blank"  href="https://web.facebook.com/ViggoChile/?_rdc=1&_rdr"><i class="bi bi-facebook"></i></a>
+                        <a target="_blank" href="https://www.linkedin.com/company/viggo-chile/"><i class="bi bi-linkedin"></i></a>
                     </div>
                 </div>
             </div>
         </nav>
     </header>
 
-    <div class="rectangle">
+    <div class="rectangle pb-3">
         <img src="~/img/to3d4ee1.png" />
         <!-- Contenido del rectángulo -->
     </div>
-
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+    <div class="bg-container">
+        <div class="container container-main">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
     </div>
-
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2023 - ViggoQR - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2023 - ViggoQR - <a asp-area="" asp-controller="Home" asp-action="">Privacy</a>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 </html>
