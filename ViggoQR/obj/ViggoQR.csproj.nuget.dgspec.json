@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joel.pereira\\Desktop\\ViggoQR\\ViggoQRProyect\\ViggoQR\\ViggoQR.csproj": {}
+    "C:\\Users\\joel.pereira\\Desktop\\ViggoQRR\\ViggoQRProyect\\ViggoQR\\ViggoQR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joel.pereira\\Desktop\\ViggoQR\\ViggoQRProyect\\ViggoQR\\ViggoQR.csproj": {
+    "C:\\Users\\joel.pereira\\Desktop\\ViggoQRR\\ViggoQRProyect\\ViggoQR\\ViggoQR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joel.pereira\\Desktop\\ViggoQR\\ViggoQRProyect\\ViggoQR\\ViggoQR.csproj",
+        "projectUniqueName": "C:\\Users\\joel.pereira\\Desktop\\ViggoQRR\\ViggoQRProyect\\ViggoQR\\ViggoQR.csproj",
         "projectName": "ViggoQR",
-        "projectPath": "C:\\Users\\joel.pereira\\Desktop\\ViggoQR\\ViggoQRProyect\\ViggoQR\\ViggoQR.csproj",
+        "projectPath": "C:\\Users\\joel.pereira\\Desktop\\ViggoQRR\\ViggoQRProyect\\ViggoQR\\ViggoQR.csproj",
         "packagesPath": "C:\\Users\\joel.pereira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joel.pereira\\Desktop\\ViggoQR\\ViggoQRProyect\\ViggoQR\\obj\\",
+        "outputPath": "C:\\Users\\joel.pereira\\Desktop\\ViggoQRR\\ViggoQRProyect\\ViggoQR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
