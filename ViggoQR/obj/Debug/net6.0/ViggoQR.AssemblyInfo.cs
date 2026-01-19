@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ViggoQR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b6771898346335126f1a837f22fe4e0c9620360")]
 [assembly: System.Reflection.AssemblyProductAttribute("ViggoQR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ViggoQR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

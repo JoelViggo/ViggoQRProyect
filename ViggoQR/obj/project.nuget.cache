@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kosHGwN3JHuFj3/9XANl2DfRazTqLTPDPLPEKotXTD3CLVG1LQdm6R7OytnrNSB6ftdSrKG42GQAgBlUpK6FzA==",
+  "dgSpecHash": "fT6+SF4NbMuqsN1oPrKYBh3TL5BIzcQ5Wgcxp3moq53MvU8DV2Rf3HnM14CdM9qwnC45LgtuTuzbhfEYRNV7Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joel.pereira\\Desktop\\ViggoQR\\ViggoQRProyect\\ViggoQR\\ViggoQR.csproj",
+  "projectFilePath": "C:\\Users\\joel.pereira\\Desktop\\ViggoQRR\\ViggoQRProyect\\ViggoQR\\ViggoQR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joel.pereira\\.nuget\\packages\\google.apis\\1.64.0\\google.apis.1.64.0.nupkg.sha512",
     "C:\\Users\\joel.pereira\\.nuget\\packages\\google.apis.auth\\1.64.0\\google.apis.auth.1.64.0.nupkg.sha512",
